@@ -1,2 +1,0 @@
-# Stiker
-Halo
